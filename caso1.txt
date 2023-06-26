@@ -1,0 +1,12 @@
+S[ASAB,^,]
+A[bA,^,]
+B[aaaaaaa,]
+bbbaaaaaaa
+bbaaaaaaa
+aaaaaaa
+baaaaaaabaaaaaaa
+bbbbbbbbaaaaaaa
+baaaaaaa
+bbbbaaaaaaa
+bbbbbbaaaaaaa
+aaaaaaabaaaaaaa
